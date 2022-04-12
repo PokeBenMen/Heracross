@@ -12,7 +12,7 @@
 						<string>software-package</string>
 						<key>url</key>
                         <!-- Change URL bellow to the location of your ipa -->
-						<string>https://up-ipa.xyz/uploads/ipogo.ipa</string>
+						<string>https://sideloadstore.ga/IPAs/Signed/IPOGO-sign.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
