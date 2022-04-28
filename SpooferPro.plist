@@ -11,7 +11,7 @@
 						<string>software-package</string>
 						<key>url</key>
                         <!-- Change URL bellow to the location of your ipa -->
-						<string>https://api.starfiles.co/direct/d7b63da971e5</string>
+						<string>https://cdn.spooferpro.com/direct-0.76.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
