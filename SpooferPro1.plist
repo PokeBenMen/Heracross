@@ -11,7 +11,7 @@
 						<string>software-package</string>
 						<key>url</key>
                         <!-- Change URL bellow to the location of your ipa -->
-						<string>https://api.starfiles.co/direct/7565555f5cf9</string>
+						<string>https://api.starfiles.co/direct/c1e9d3b73f34</string>
 					</dict>
 				</array>
 				<key>metadata</key>
