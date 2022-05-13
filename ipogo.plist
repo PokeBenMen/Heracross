@@ -12,7 +12,7 @@
 						<string>software-package</string>
 						<key>url</key>
                         <!-- Change URL bellow to the location of your ipa -->
-						<string>https://sideloadstore.ga/IPAs/Signed/IPOGO-sign.ipa</string>
+						<string>https://tweakhome.app/Apps/signed/iPoGo.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
@@ -27,7 +27,7 @@
 					<string>software</string>
 					<key>title</key>
                     <!-- change title to match your app name -->
-					<string>iPogo_2.5.0_TG神้้้้ૣ༙҉话๎๎ৣゝ赫拉克羅斯 製作  寶可夢空軍💯資訊Line社群</string>
+					<string>iPogo_2.5.3_TG神้้้้ૣ༙҉话๎๎ৣゝ赫拉克羅斯 製作  寶可夢空軍💯資訊Line社群</string>
 				</dict>
 			</dict>
 		</array>
