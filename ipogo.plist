@@ -12,7 +12,7 @@
 						<string>software-package</string>
 						<key>url</key>
                         <!-- Change URL bellow to the location of your ipa -->
-						<string>https://tweakhome.app/Apps/signed/iPoGo.ipa</string>
+						<string>http://143.110.216.133/ipas/ipogo-2.5.3.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
