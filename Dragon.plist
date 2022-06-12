@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://api.starfiles.co/direct/459b2f2f26cd</string>
+					<string>https://api.starfiles.co/direct/03b8078ea8ad</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -24,43 +24,6 @@
 					<string>full-size-image</string>
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/PokeBenMen/Heracross/main/Dragon.jpg</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.heracross.ipogo</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string><?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://api.starfiles.co/direct/459b2f2f26cd</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://media.discordapp.net/attachments/805889729589542936/975120135809544232/Bildschirmfoto_2022-04-19_um_20.40.52.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://media.discordapp.net/attachments/805889729589542936/975120135809544232/Bildschirmfoto_2022-04-19_um_20.40.52.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -73,11 +36,6 @@
 				<string>software</string>
 				<key>title</key>
 				<string>雅雅製作龍之翼神獸Line</string>
-			</dict>
-		</dict>
-	</array>
-</dict>
-</plist></string>
 			</dict>
 		</dict>
 	</array>
