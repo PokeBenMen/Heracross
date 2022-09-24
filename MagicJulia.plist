@@ -19,7 +19,7 @@
 				<dict>
 					<key>bundle-identifier</key>
                     <!-- change bundle identifer to the one you are using in your app -->
-					<string>com.heracross.ipogo</string>
+					<string>com.heracross.MajicJulia</string>
 					<key>bundle-version</key>
                     <!-- change version bellow to the version you are providing -->
 					<string>1.0</string>
@@ -30,6 +30,6 @@
 					<string>MagicJulia_TG神้้้้ૣ༙҉话๎๎ৣゝ赫拉克羅斯 製作  寶可夢空軍💯資訊LINE社群</string>
 				</dict>
 			</dict>
-		</array>
+		</array>K
 	</dict>
 </plist>
