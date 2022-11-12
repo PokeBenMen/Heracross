@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>pubg.gl.vimasios</string>
+				<string>sever.pubg.vimasios.gl</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
