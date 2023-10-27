@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.heracross.iPogo</string>
+				<string>com.nianticlabs.pokemongo2</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
