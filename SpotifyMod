@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/spotify-8.8.72-1.8-12-24-mylan-inc./Spotify_8.8.72_1.8%2812-24Mylan%20Inc.%29.ipa</string>
+					<string>https://archive.org/download/spotify-8.8.72-1.8-mylan-inc./Spotify_8.8.72_1.8%28Mylan%20Inc.%29.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
